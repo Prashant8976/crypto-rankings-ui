@@ -38,10 +38,10 @@ const CoinList = () => {
                                     <div class="font-semibold text-left">Price</div>
                                 </th>
                                 <th class="p-2 whitespace-nowrap">
-                                    <div class="font-semibold text-center">Market cap</div>
+                                    <div class="font-semibold text-left">Market cap</div>
                                 </th>
                                 <th class="p-2 whitespace-nowrap">
-                                    <div class="font-semibold text-center">Change</div>
+                                    <div class="font-semibold text-left">Change</div>
                                 </th>
                             </tr>
                         </thead>
